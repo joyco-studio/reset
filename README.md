@@ -1,2 +1,1 @@
-# reset
-Joyco css reset file
+# Joyco CSS Reset
